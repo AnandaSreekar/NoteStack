@@ -14,11 +14,6 @@ Notestackis a simple and powerful web-based note-taking application that helps u
   •Git(VersionControl)
 
 
-# Creating NoteStack
-![Creating NoteStack](https://user-images.githubusercontent.com/86147418/your_image_filename.jpg)
-
-# Save & Done
-![Save & Done](https://user-images.githubusercontent.com/86147418/your_image_filename2.jpg)
-
-# Viewing NoteStack
-![Viewing NoteStack](https://user-images.githubusercontent.com/86147418/your_image_filename3.jpg)
+•  Creating NoteStack
+•  Save & Done
+•  Viewing NoteStack
